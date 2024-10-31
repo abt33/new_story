@@ -1,2 +1,5 @@
-chapter 2 hi
+chapter 2 
+
+git config --global user.email yournew@email.com
+git config --global user.name yournewgoodname
 
